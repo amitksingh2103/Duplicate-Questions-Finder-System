@@ -9,7 +9,7 @@ from nltk.stem import WordNetLemmatizer
 from sklearn.feature_extraction.text import TfidfVectorizer
 
 # Load the RandomForestClassifier model
-Model = pickle.load(open('Duplicate_Questionss_Finder_Model.pkl', 'rb'))
+Model = pickle.load(open('Duplicate_Questionssss_Finder_Model.pkl', 'rb'))
 
 # Define the Flask app
 app = Flask(__name__)
