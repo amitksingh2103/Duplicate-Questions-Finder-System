@@ -1,0 +1,1 @@
+This is an End To End NLP and Machine Learning project with Flask web app and AWS and Azure Deployment
